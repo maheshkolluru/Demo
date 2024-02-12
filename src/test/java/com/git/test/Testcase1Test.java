@@ -3,7 +3,7 @@ package com.git.test;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
-public class Testcase1 {
+public class Testcase1Test {
 	@Test
 	public void git(){
 		
