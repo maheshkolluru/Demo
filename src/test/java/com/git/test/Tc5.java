@@ -3,12 +3,11 @@ package com.git.test;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
-public class TC4 {
+public class Tc5 {
 	@Test
-	public void tc4()
-	{
-		Reporter.log("tc4 updated in eng2");
+	public void git(){
+		
+		Reporter.log("tc5 passed");
 	}
-
 
 }
