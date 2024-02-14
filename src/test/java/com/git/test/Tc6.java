@@ -10,5 +10,10 @@ public class Tc6 {
 		
 		Reporter.log("tc6 passed");
 	}
+	@Test
+	public void git1(){
+		
+		Reporter.log("tc61 passed");
+	}
 
 }
