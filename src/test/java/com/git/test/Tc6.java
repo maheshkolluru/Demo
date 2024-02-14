@@ -3,12 +3,12 @@ package com.git.test;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
-public class TC5 {
+public class Tc6 {
+	
 	@Test
 	public void git(){
 		
-		Reporter.log("tc5 passed");
+		Reporter.log("tc6 passed");
 	}
-
 
 }
